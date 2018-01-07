@@ -1,0 +1,75 @@
+Card delimiter is invalid in *
+Card rank is invalid in -
+Card suit is invalid in a-
+Card rank is invalid in -d
+Card rank is invalid in 0-c
+Card rank is invalid in 1-d
+Card rank is invalid in 11-h
+Card rank is invalid in 111-h
+Two of Clubs - Value = 2
+Two of Diamonds - Value = 2
+Two of Hearts - Value = 2
+Two of Spades - Value = 2
+Three of Clubs - Value = 3
+Three of Diamonds - Value = 3
+Three of Hearts - Value = 3
+Three of Spades - Value = 3
+Four of Clubs - Value = 4
+Four of Diamonds - Value = 4
+Four of Hearts - Value = 4
+Four of Spades - Value = 4
+Five of Clubs - Value = 5
+Five of Diamonds - Value = 5
+Five of Hearts - Value = 5
+Five of Spades - Value = 5
+Six of Clubs - Value = 6
+Six of Diamonds - Value = 6
+Six of Hearts - Value = 6
+Six of Spades - Value = 6
+Seven of Clubs - Value = 7
+Seven of Diamonds - Value = 7
+Seven of Hearts - Value = 7
+Seven of Spades - Value = 7
+Eight of Clubs - Value = 8
+Eight of Diamonds - Value = 8
+Eight of Hearts - Value = 8
+Eight of Spades - Value = 8
+Nine of Clubs - Value = 9
+Nine of Diamonds - Value = 9
+Nine of Hearts - Value = 9
+Nine of Spades - Value = 9
+Ten of Clubs - Value = 10
+Ten of Diamonds - Value = 10
+Ten of Hearts - Value = 10
+Ten of Spades - Value = 10
+Jack of Spades - Value = 10
+Jack of Clubs - Value = 10
+Jack of Diamonds - Value = 10
+Jack of Hearts - Value = 10
+Jack of Spades - Value = 10
+Jack of Spades - Value = 10
+Queen of Clubs - Value = 10
+Queen of Diamonds - Value = 10
+Queen of Hearts - Value = 10
+Queen of Spades - Value = 10
+King of Clubs - Value = 10
+King of Diamonds - Value = 10
+King of Hearts - Value = 10
+King of Clubs - Value = 10
+King of Spades - Value = 10
+Ace of Clubs - Value = 1 or 11
+Ace of Diamonds - Value = 1 or 11
+Ace of Hearts - Value = 1 or 11
+Ace of Spades - Value = 1 or 11
+Card delimiter is invalid in a*s
+Card suit is invalid in a-sss
+Card delimiter is invalid in a*sss
+Card delimiter is invalid in aa**sss
+
+--------------- Summary Report ---------------
+Valid card count = 55
+Invalid Rank card count = 6
+Invalid Suit card count = 2
+Invalid Delimiter card count = 4
+Unrecognized Entry card count = 0
+Total card count = 67
